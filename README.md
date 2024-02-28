@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Vipul Singh
 # 💫 About Me:
 🔭 I’m an CSE student with specialization in AI&ML.<br>🌐 I’m passionate about Web Development, Machine Learning<br>🤝 Have solid understanding of C++ and Java.<br>🌱 I’m currently learning MERN Development and ML<br>💬 Constantly learning and exploring new technologies.<br>⚡ Working on projects
 
